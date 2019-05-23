@@ -1,6 +1,7 @@
 *.DS_Store
 *.pyc
 *.swp
+*.pickle
 temp/*
 dist/*
 build/*
@@ -18,7 +19,7 @@ examples/img/*
 .coverage
 .cache
 .pytest_cache
-.pickle
+*.pickle
 
 # developer environments
 .idea
