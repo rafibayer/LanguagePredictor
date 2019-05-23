@@ -18,6 +18,7 @@ examples/img/*
 .coverage
 .cache
 .pytest_cache
+.pickle
 
 # developer environments
 .idea
